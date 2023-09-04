@@ -7,6 +7,9 @@
 - HTML
 - CSS
 - JavaScript
+- GitHub
+- Git
+- Figma
 
 - 📫Contact me:
   
